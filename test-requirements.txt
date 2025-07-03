@@ -3,3 +3,5 @@ mock
 pushsource
 rpmdyn
 bandit==1.7.5
+pylint; python_version>='3'
+setuptools==80.9.0
